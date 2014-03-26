@@ -1,4 +1,4 @@
-# OpenNebula Documentation
+# E-CEO Data Challenges platform Documentation
 
 This is the official repository of E-CEO Data Challenges platform's Documentation. This
 documentation is live at:
