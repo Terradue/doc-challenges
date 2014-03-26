@@ -39,6 +39,7 @@ cd /var/www/html
 ln -s /home/fbrito/doc-challenges/build/html/ data-challenges
 chown -R apache:apache data-challenges/
 ```
+> Replace /home/fbrito with the path to the folder where you have cloned the repository
 
 Open you browser at the address http://127.0.0.1/data-challenges
 
