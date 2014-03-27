@@ -7,20 +7,8 @@ Home page
 ---------
 
 The home page of the E-CEO portal is as shown in the following figure.
-It contains a top bar, which is an quick access to all type of challenge
-of the portal:
-
--  My Challenges: the challenges I am involved in.
--  Join a Challenge: open or on-going challenges that a user can join.
--  Upcoming Challenges: future challenges that a user cannot yet join.
--  Past Challenges: closed challenges, only results are accessible.
--  Settings: functionalities only accessible for the administrator
--  User info: access to user information such as account, profile,
-   support or help page.
--  Notifications: notifications of the logged user.
-
-The menu bar is updated according to the user logged in (administrator
-will have the Settings |homepage.png| button available).
+It contains a top bar described in the next section.
+On the home page are displayed random contests which may have an interest for the current user.
 
 Menu bar
 --------
@@ -38,6 +26,10 @@ Gives access to description of futures challenges that are not yet open for part
 Past challenges
 ^^^^^^^^^^^^^^^
 Gives access to description and results of past challenges run on the platform.
+
+My challenges
+^^^^^^^^^^^^^^^
+Gives access to challenges the current user is involved in.
 
 Notifications
 ^^^^^^^^^^^^^

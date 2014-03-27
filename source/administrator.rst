@@ -22,6 +22,7 @@ The challenge view contains all the different pages associated to a challenge. T
 The accessible pages are not the same depending on the role of the challenge.
 
 The list of pages accessible for an **administrator** are:
+
 -  |contestviewmenuhome.png| Challenge description
 -  |contestviewmenudatapackage.png| Data packages
 -  |contestviewmenuusers.png| Challenge users
