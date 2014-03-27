@@ -3,19 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to E-CEO Data Challenges platform's documentation!
-==========================================================
-
-Contents:
+User Guide
+==========
 
 .. toctree::
    :maxdepth: 2
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`User Guide` <userguide.rst>
-
+   
+   Overview <overview>
+   Administrator guide <administrator/administrator.rst>
+   Initiator guide <initiator/initiator.rst>
+   Evaluator guide <evaluator/evaluator.rst>
+   Participant guide <evaluator/participant.rst>
