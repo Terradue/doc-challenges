@@ -47,16 +47,16 @@ the challenge.
 
 The pages are accessible from a vertical menu bar on the left.
 
-|image: challengeview\_menu.png|
+|image: contestview\_menu.png|
 
 The list of pages accessible are (with type of user who can access it):
 
--  |image: challengeview\_menu\_home.png| Challenge description
--  |image: challengeview\_menu\_datapackage.png| Data packages
--  |image: challengeview\_menu\_users.png| Challenge users
--  |image: challengeview\_menu\_environments.png| Environments
--  |image: challengeview\_menu\_evaluationresults.png| Evaluation results
--  |image: challengeview\_menu\_ranking.png| Ranking
+-  |image: contestview\_menu\_home.png| Challenge description
+-  |image: contestview\_menu\_datapackage.png| Data packages
+-  |image: contestview\_menu\_users.png| Challenge users
+-  |image: contestview\_menu\_environments.png| Environments
+-  |image: contestview\_menu\_evaluationresults.png| Evaluation results
+-  |image: contestview\_menu\_ranking.png| Ranking
 
 
 Challenge view (global description)
@@ -67,7 +67,7 @@ menu bar and then click on the challenge name to select it.
 
 The first page he will see is the challenge description page.
 
-|image: challengeview\_description.png|
+|image: contestview\_description.png|
 
 The Initiator has the possiblity from this page to **Modify** or
 **Delete** the challenge. He can also do the following actions, clicking
@@ -92,7 +92,7 @@ and choose if it should be accessible for Participants, then click on
 
 It is also possible to manage data packages items (click on **Manage Items** ).
 
-|image: challengeview\_datapackage\_initiator.png|
+|image: contestview\_datapackage\_initiator.png|
 
 Data package items management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -123,7 +123,7 @@ to the challenge. He can also (by clicking on the corresponding user icon):
 -  Select or change the evaluator
 -  Allow or deny participants to the challenge
 
-|image: challengeview\_users.png|
+|image: contestview\_users.png|
 
 Challenge view - environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -132,7 +132,7 @@ From this page, the user can access information about its environments
 (Initiator and Administrator can see all environments of the challenge,
 but Evaluator and Participants can see only their environment).
 
-|image: challengeview\_environments.png|
+|image: contestview\_environments.png|
 
 For each environment, it is possible to access the dashboard |image: dashboard.png| as well as the oozie monitor |image: oozie.png| .
 The dashboard contains all information about the environment.
@@ -157,10 +157,10 @@ challenge. He can have in a quick look the view of all partcipant's scores
 amongst each other, and access more detailed results.
 
 Moving the mouse over one participant's name will make it appear in bold
-compare to the others in the graph. Clicking on |image: challengeview\_menu\_evaluationresults.png|
+compare to the others in the graph. Clicking on |image: contestview\_menu\_evaluationresults.png|
 on the table will redirect to the specified evaluation of the corresponding participant.
 
-|image: challengeview\_evaluationresults.png|
+|image: contestview\_evaluationresults.png|
 
 Participant evaluation view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -182,7 +182,7 @@ From this page, the user can access the ranking of the challenge (note
 this page is also visible without being logged, but some information may
 be not visible in that case).
 
-|image: challengeview\_ranking.png|
+|image: contestview\_ranking.png|
 
 Manage Data Series
 ------------------
@@ -212,41 +212,41 @@ Once all the fields filled, save by clicking **Insert** .
 .. |image: metrics.png| image:: includes/sum/metrics.png
 .. |image: challenge\_modify.png| image:: includes/sum/challenge_modify.png
 .. |image: challenge\_join.png| image:: includes/sum/challenge_join.png
-.. |image: challengeview\_menu.png| image:: includes/sum/contestview_menu.png
-.. |image: challengeview\_menu\_home.png| image:: includes/sum/contestview_menu_home.png
-.. |image: challengeview\_menu\_datapackage.png| image:: includes/sum/contestview_menu_datapackage.png
-.. |image: challengeview\_menu\_users.png| image:: includes/sum/contestview_menu_users.png
-.. |image: challengeview\_menu\_environments.png| image:: includes/sum/contestview_menu_environments.png
-.. |image: challengeview\_menu\_criteria.png| image:: includes/sum/contestview_menu_criteria.png
-.. |image: challengeview\_menu\_applications.png| image:: includes/sum/contestview_menu_applications.png
-.. |image: challengeview\_menu\_metrics.png| image:: includes/sum/contestview_menu_metrics.png
-.. |image: challengeview\_menu\_evaluationresults.png| image:: includes/sum/contestview_menu_evaluationresults.png
-.. |image: challengeview\_menu\_ranking.png| image:: includes/sum/contestview_menu_ranking.png
-.. |image: challengeview\_description.png| image:: includes/sum/contestview_description.png
-.. |image: challengeview\_datapackage\_participant.png| image:: includes/sum/contestview_datapackage_participant.png
+.. |image: contestview\_menu.png| image:: includes/sum/contestview_menu.png
+.. |image: contestview\_menu\_home.png| image:: includes/sum/contestview_menu_home.png
+.. |image: contestview\_menu\_datapackage.png| image:: includes/sum/contestview_menu_datapackage.png
+.. |image: contestview\_menu\_users.png| image:: includes/sum/contestview_menu_users.png
+.. |image: contestview\_menu\_environments.png| image:: includes/sum/contestview_menu_environments.png
+.. |image: contestview\_menu\_criteria.png| image:: includes/sum/contestview_menu_criteria.png
+.. |image: contestview\_menu\_applications.png| image:: includes/sum/contestview_menu_applications.png
+.. |image: contestview\_menu\_metrics.png| image:: includes/sum/contestview_menu_metrics.png
+.. |image: contestview\_menu\_evaluationresults.png| image:: includes/sum/contestview_menu_evaluationresults.png
+.. |image: contestview\_menu\_ranking.png| image:: includes/sum/contestview_menu_ranking.png
+.. |image: contestview\_description.png| image:: includes/sum/contestview_description.png
+.. |image: contestview\_datapackage\_participant.png| image:: includes/sum/contestview_datapackage_participant.png
 .. |image: delete\_env.png| image:: includes/sum/delete_env.png
-.. |image: challengeview\_datapackage\_initiator.png| image:: includes/sum/contestview_datapackage_initiator.png
-.. |image: challengeview\_users.png| image:: includes/sum/contestview_users.png
-.. |image: challengeview\_environments.png| image:: includes/sum/contestview_environments.png
+.. |image: contestview\_datapackage\_initiator.png| image:: includes/sum/contestview_datapackage_initiator.png
+.. |image: contestview\_users.png| image:: includes/sum/contestview_users.png
+.. |image: contestview\_environments.png| image:: includes/sum/contestview_environments.png
 .. |image: dashboard.png| image:: includes/sum/dashboard.png
 .. |image: oozie.png| image:: includes/sum/oozie.png
 .. |image: dashboard\_page.png| image:: includes/sum/dashboard_page.png
 .. |image: oozieMonitor.png| image:: includes/sum/oozieMonitor.png
-.. |image: challengeview\_applications\_participant.png| image:: includes/sum/contestview_applications_participant.png
+.. |image: contestview\_applications\_participant.png| image:: includes/sum/contestview_applications_participant.png
 .. |image: appref.png| image:: includes/sum/appref.png
 .. |image: update\_appref.png| image:: includes/sum/update_appref.png
-.. |image: challengeview\_applications\_participant2.png| image:: includes/sum/contestview_applications_participant2.png
-.. |image: challengeview\_applications\_admin.png| image:: includes/sum/contestview_applications_admin.png
+.. |image: contestview\_applications\_participant2.png| image:: includes/sum/contestview_applications_participant2.png
+.. |image: contestview\_applications\_admin.png| image:: includes/sum/contestview_applications_admin.png
 .. |image: appevalref.png| image:: includes/sum/appevalref.png
 .. |image: update\_evalref.png| image:: includes/sum/update_evalref.png
-.. |image: challengeview\_applications\_evaluator.png| image:: includes/sum/contestview_applications_evaluator.png
-.. |image: challengeview\_evaluationtree\_evaluator.png| image:: includes/sum/contestview_evaluationtree_evaluator.png
-.. |image: challengeview\_evaluationtree\_participant.png| image:: includes/sum/contestview_evaluationtree_participant.png
-.. |image: challengeview\_metrics.png| image:: includes/sum/contestview_metrics.png
-.. |image: challengeview\_scores.png| image:: includes/sum/contestview_scores.png
-.. |image: challengeview\_linguisticterms.png| image:: includes/sum/contestview_linguisticterms.png
-.. |image: challengeview\_evaluationresults.png| image:: includes/sum/contestview_evaluationresults.png
-.. |image: challengeview\_ranking.png| image:: includes/sum/contestview_ranking.png
+.. |image: contestview\_applications\_evaluator.png| image:: includes/sum/contestview_applications_evaluator.png
+.. |image: contestview\_evaluationtree\_evaluator.png| image:: includes/sum/contestview_evaluationtree_evaluator.png
+.. |image: contestview\_evaluationtree\_participant.png| image:: includes/sum/contestview_evaluationtree_participant.png
+.. |image: contestview\_metrics.png| image:: includes/sum/contestview_metrics.png
+.. |image: contestview\_scores.png| image:: includes/sum/contestview_scores.png
+.. |image: contestview\_linguisticterms.png| image:: includes/sum/contestview_linguisticterms.png
+.. |image: contestview\_evaluationresults.png| image:: includes/sum/contestview_evaluationresults.png
+.. |image: contestview\_ranking.png| image:: includes/sum/contestview_ranking.png
 .. |image: search.png| image:: includes/sum/search.png
 .. |image: bbox2.png| image:: includes/sum/bbox2.png
 .. |image: bbox1.png| image:: includes/sum/bbox1.png
