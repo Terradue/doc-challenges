@@ -34,6 +34,69 @@ appealing way of conducting research in data mining.
 
 The platform is composed of a front-end (GUI) and a back-end (webserver).
 
+Challenges Phases
+-----------------
+A challenge (which is the core part of the portal) is divided into 6 phases:
+
+- Challenge is under creation |image: challenge\_created.png|
+- Challenge is visible |image: challenge\_promoted.png|
+- Challenge is open to applications |image: challenge\_open.png|
+- Challenge is In Progress |image: challenge\_in\_progress.png|
+- Challenge is On Evaluation |image: challenge\_on\_evaluation.png|
+- Challenge is Closed |image: challenge\_closed.png|
+
+
+Phase 1 (Challenge created)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Challenge creation and definition
+-  Challenge modification
+-  Challenge promotion
+-  Challenge users management
+-  Series and data package management
+-  Data package for challenge management
+-  Challenge Environment management
+-  Evaluation Criterion creation
+-  Evaluation Tree management
+-  Notifications cleaning
+
+Phase 2 (Challenge visible)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Challenge description can be accessed
+
+Phase 3 (Challenge promoted)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Application to a challenge
+-  User certificate upload
+-  Challenge start
+-  Challenge users management
+-  Environment creation
+-  Notifications cleaning
+
+Phase 4 (Challenge started)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Participant Application status update (packaging)
+-  Participant Application status update (validation)
+-  Participant Application references update
+-  Challenge stop
+-  Notifications cleaning
+
+Phase 5 (Challenge ended / on evaluation)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Participant Application status update (evaluation)
+-  Participant Application references update
+-  Environment nodes scalability
+-  Notifications cleaning
+
+Phase 6 (Challenge closed)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Challenge results are published and accessible.
+
 
 Challenges User Roles
 ---------------------
