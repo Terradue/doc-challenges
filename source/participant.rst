@@ -163,7 +163,7 @@ Tutorial
 --------
 
 Participant application creation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A tutorial to create a simple application for a Participant on a Private
 Environment is available here: `https://support.terradue.com/projects/sandbox-demo/wiki/Lib-beam <https://support.terradue.com/projects/sandbox-demo/wiki/Lib-beam>`__.
