@@ -73,7 +73,8 @@ Please refer to :doc:`Evaluator Guide <evaluator>`.
 
 Evaluation results
 ^^^^^^^^^^^^^^^^^^
-Please refer to :doc:`Evaluator Guide <evaluator>`.
+Please refer to 
+:doc:`Evaluator Guide <evaluator>`.
 
 Ranking
 ^^^^^^^
