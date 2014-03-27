@@ -20,7 +20,7 @@ Challenge creation
 From the top menu bar, the **Initiator** can click on the “Settings” |settings.png| button and then click on **Create a Challenge** .
 Otherwise, from the **My Challenges**  list in the menu bar, the **Initiator** can click on **Create a new Challenge**  (in the bottom of the list of challenges).
 
-|createchallenge.png|
+|createcontest.png|
 
 From the challenge creation page, fill the form with all information
 needed for the challenge and click **Create**  to save it. The new
@@ -33,7 +33,7 @@ From the home page, the Initiator can choose **My Challenges**  in
 the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
 Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
 
-|challengemodify.png|
+|contestmodify.png|
 
 Once all edit have been done, the Initiator may save the challenge by clicking on **Save Challenge** .
 All fields containing information about the challenge can be edited.

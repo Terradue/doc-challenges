@@ -24,7 +24,7 @@ Challenges to be joined can also be accessible from the home page.
 
 Then the user access to a description of the challenge with the ability to join the challenge.
 
-|challengejoin.png|
+|contestjoin.png|
 
 
 Challenge view
