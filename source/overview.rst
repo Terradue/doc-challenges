@@ -32,8 +32,11 @@ research Platform for:
 The platform allows the set-up three on-line challenges, which can be
 appealing way of conducting research in data mining.
 
-The platform is composed of a front-end (GUI) and a back-end
-(webserver).
+The platform is composed of a front-end (GUI) and a back-end (webserver).
+
+
+Challenges User Roles
+---------------------
 
 The software can be use by 4 type of users: Participants, Initiators,
 Evaluators, Administrators.
@@ -65,12 +68,4 @@ Challenge **administrators** will use the platform to:
 -  set-up environments,
 -  validate participant applications,
 -  define data packages
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
