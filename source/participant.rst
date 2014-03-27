@@ -19,7 +19,7 @@ Challenge **participants** will use the platform to:
 Join a Challenge
 ----------------
 
-On the top menu bar, the user can click on **Join a Challenge”**and then select a challenge by clicking on the challenge name.
+On the top menu bar, the user can click on **Join a Challenge** and then select a challenge by clicking on the challenge name.
 Challenges to be joined can also be accessible from the home page.
 
 Then the user access to a description of the challenge with the ability to join the challenge.
