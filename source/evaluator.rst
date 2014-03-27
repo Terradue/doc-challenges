@@ -12,7 +12,7 @@ Challenge **evaluators** will use the platform to:
 -  get information about the Evaluation Environment
 
 Challenge view
-----------------
+--------------
 
 The challenge view contains all the different pages associated to a challenge. The accessible pages are not the same depending on the role of the challenge.
 The pages are accessible from a vertical menu bar on the left.
@@ -32,7 +32,7 @@ The list of pages accessible are (with type of user who can access it):
 
 
 Challenge view (global description)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From the home page, the user can choose **My Challenges** in the menu bar and then click on the challenge name to select it.
 The first page he will see is the challenge description page.
@@ -47,7 +47,7 @@ The list of Data packages accessible for the participant is displayed, including
 |contestviewdatapackageparticipant.png|
 
 Challenge view - environments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access information about its environments
 (Initiator and Administrator can see all environments of the challenge,
@@ -116,7 +116,7 @@ Linguistic Terms are key/value association made from the Evaluator to evaluate s
 |contestviewlinguisticterms.png|
 
 Challenge view - evaluation results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the results of the evaluation of the
 challenge. He can have in a quick look the view of all partcipant's scores
@@ -129,7 +129,7 @@ on the table will redirect to the specified evaluation of the corresponding part
 |contestviewevaluationresults.png|
 
 Challenge view - ranking
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the ranking of the challenge (note
 this page is also visible without being logged, but some information may
@@ -138,7 +138,7 @@ be not visible in that case).
 |contestviewranking.png|
 
 Participant evaluation view
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Each participant can access its own evaluation results. It correspond to a page showing a graph with for each criterion the min and max score as well as Participant score.
 

@@ -32,15 +32,15 @@ Join a challenge
 Gives access to description of challenges that are open for participants and thus can be joined (it can be already started challenges).
 
 Upcoming challenges
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 Gives access to description of futures challenges that are not yet open for participants and thus cannot be joined.
 
 Past challenges
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 Gives access to description and results of past challenges run on the platform.
 
 Notifications
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 Notifications can be accessed by clicking |bell.png|
 in the top of any page. The following list will appear, with all
 notifications associated to the current user, along with the number of
@@ -88,7 +88,7 @@ on its name on the top bar.
 
 
 User profile
-~~~~~~~~~~~~~
+~~~~~~~~~~~~
 
 From any page, the user can access its profile by clicking “\ **my profile**\ ” from the top bar (user infos).
 
@@ -102,7 +102,7 @@ profile of the user).
 |userprofile.png|
 
 User certificate
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 From any page, the user can access its profile by clicking “\ **my certificate”** from the top bar (user infos).
 

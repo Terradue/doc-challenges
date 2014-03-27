@@ -1,6 +1,6 @@
 
 Participant Guide
-===================
+=================
 
 Role description
 ----------------
@@ -50,7 +50,7 @@ The list of pages accessible for a **participant** are:
 -  |contestviewmenuranking.png| Ranking
 
 Challenge view (global description)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From the home page, the user can choose **My Challenges** in the
 menu bar and then click on the challenge name to select it.
@@ -71,7 +71,7 @@ used inside the application.xml file of the user application.
 |contestviewdatapackageparticipant.png|
 
 Challenge view - environments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access information about its environments (Initiator and Administrator can see all environments of the challenge, but Evaluator and Participants can see only their environment).
 
@@ -124,7 +124,7 @@ From this view, the user can see weights that have been associated to criteria u
 
 
 Challenge view - evaluation results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the results of the evaluation of the
 challenge. He can have in a quick look the view of all partcipant's scores
@@ -137,7 +137,7 @@ on the table will redirect to the specified evaluation of the corresponding part
 |contestviewevaluationresults.png|
 
 Challenge view - ranking
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the ranking of the challenge (note
 this page is also visible without being logged, but some information may
@@ -147,7 +147,7 @@ be not visible in that case).
 
 
 Participant evaluation view
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Each participant can access its own evaluation results. It correspond to
 a page showing a graph with for each criterion the min and max score as
@@ -160,10 +160,10 @@ The user can also dowload a csv file containing all the results by
 clicking on |evaluation.png|
 
 Tutorial
------------
+--------
 
 Participant application creation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A tutorial to create a simple application for a Participant on a Private
 Environment is available here: `https://support.terradue.com/projects/sandbox-demo/wiki/Lib-beam <https://support.terradue.com/projects/sandbox-demo/wiki/Lib-beam>`__.

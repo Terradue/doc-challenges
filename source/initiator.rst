@@ -15,7 +15,7 @@ Challenge **initiators** will use the platform to:
 
 
 Challenge creation 
-----------------
+------------------
 
 From the top menu bar, the **Initiator** can click on the “Settings” |settings.png| button and then click on **Create a Challenge** .
 Otherwise, from the **My Challenges**  list in the menu bar, the **Initiator** can click on **Create a new Challenge**  (in the bottom of the list of challenges).
@@ -27,7 +27,7 @@ needed for the challenge and click **Create**  to save it. The new
 challenge will be added in the list of “my challenges”.
 
 Challenge modification 
-----------------
+----------------------
 
 From the home page, the Initiator can choose **My Challenges**  in
 the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
@@ -39,7 +39,7 @@ Once all edit have been done, the Initiator may save the challenge by clicking o
 All fields containing information about the challenge can be edited.
 
 Challenge view
-----------------
+--------------
 
 The challenge view contains all the different pages associated to a
 challenge. The accessible pages are not the same depending on the role of
@@ -60,7 +60,7 @@ The list of pages accessible are (with type of user who can access it):
 
 
 Challenge view (global description)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From the home page, the user can choose **My Challenges**  in the
 menu bar and then click on the challenge name to select it.
@@ -95,7 +95,7 @@ It is also possible to manage data packages items (click on **Manage Items** ).
 |contestviewdatapackageinitiator.png|
 
 Data package items management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the Initiator can select the items he wants to have in
 the data package. He would need first to select the data series he wants
@@ -115,7 +115,7 @@ or |bbox1.png| to respectively draw a rectangle or a polygon on a map that will 
 |datapackageitemmanagement.png|
 
 Challenge view - users
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the initiator can access the list of users participating
 to the challenge. He can also (by clicking on the corresponding user icon):
@@ -126,7 +126,7 @@ to the challenge. He can also (by clicking on the corresponding user icon):
 |contestviewusers.png|
 
 Challenge view - environments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access information about its environments
 (Initiator and Administrator can see all environments of the challenge,
@@ -150,7 +150,7 @@ To access the information about the run, you can click on **Run information**  t
 
 
 Challenge view - evaluation results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the results of the evaluation of the
 challenge. He can have in a quick look the view of all partcipant's scores
@@ -163,7 +163,7 @@ on the table will redirect to the specified evaluation of the corresponding part
 |contestviewevaluationresults.png|
 
 Participant evaluation view
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Each participant can access its own evaluation results. It correspond to
 a page showing a graph with for each criterion the min and max score as
@@ -176,7 +176,7 @@ The user can also dowload a csv file containing all the results by
 clicking on |evaluation.png|
 
 Challenge view - ranking
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 From this page, the user can access the ranking of the challenge (note
 this page is also visible without being logged, but some information may
@@ -184,8 +184,8 @@ be not visible in that case).
 
 |contestviewranking.png|
 
-Manage Data Series
-------------------
+Settings - Manage Data Series
+-----------------------------
 
 From the Settings button on the top menu bar, select **Manage Series** . The list of
 existing series will appear. To create a new one click on **Add Data Series** .

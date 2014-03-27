@@ -36,7 +36,7 @@ The list of pages accessible are (with type of user who can access it):
 -  |contestviewmenuranking.png| Ranking
 
 Challenge view (global description)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <initator>.
 
 Challenge view - Data packages
@@ -44,7 +44,7 @@ Challenge view - Data packages
 Please refer to <initator>.
 
 Data package items management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <initator>.
 
 Challenge view - users
@@ -52,15 +52,15 @@ Challenge view - users
 Please refer to <initator>.
 
 Challenge view - environments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <initator>.
 
 Challenge view - criteria importance/weights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <evaluator>.
 
-Challenge view - applications (Administrator)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Challenge view - applications
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Inside the challenge view, the application part contains the information about the applications the administrator needs to validate.
 
@@ -73,15 +73,15 @@ Challenge view - metrics
 Please refer to <evaluator>.
 
 Challenge view - evaluation results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <evaluator>.
 
 Challenge view - ranking
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to <evaluator>.
 
 Settings - Manage Users
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 From the **Settings** |settings.png| from the menu bar, select **Manage User**.
 
@@ -102,7 +102,7 @@ From there it is possible to set a user as global Initiator (this user will have
 |usermanagement3.png|
 
 Settings - Manage Data Series
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From the **Settings** |settings.png| from the menu bar, select **Manage Series**. The list of existing series will appear. To create a new one click on **Add Data Series**.
 Once all the fields filled, save by clicking **Insert**.
