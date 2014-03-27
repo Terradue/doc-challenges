@@ -35,27 +35,27 @@ The list of pages accessible for an **administrator** are:
 
 Global description
 ^^^^^^^^^^^^^^^^^^
-Please refer to :ref:`Initiator Guide <initiator>`.
+Please refer to :doc:`Initiator Guide <initiator>`.
 
 Data packages
 ^^^^^^^^^^^^^
-Please refer to :ref:`Initiator Guide <initiator>`.
+Please refer to :doc:`Initiator Guide <initiator>`.
 
 Data package items management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Please refer to :ref:`Initiator Guide <initiator>`.
+Please refer to :doc:`Initiator Guide <initiator>`.
 
 Users
 ^^^^^
-Please refer to :ref:`Initiator Guide <initiator>`.
+Please refer to :doc:`Initiator Guide <initiator>`.
 
 Environments
 ^^^^^^^^^^^^
-Please refer to :ref:`Initiator Guide <initiator>`.
+Please refer to :doc:`Initiator Guide <initiator>`.
 
 Criteria importance/weights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Please refer to :ref:`Evaluator Guide <evaluator>`.
+Please refer to :doc:`Evaluator Guide <evaluator>`.
 
 Participants applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -69,15 +69,15 @@ The Administrator can then decide to **Validate the application** or **Discard t
 
 Evaluation metrics
 ^^^^^^^^^^^^^^^^^^
-Please refer to :ref:`Evaluator Guide <evaluator>`.
+Please refer to :doc:`Evaluator Guide <evaluator>`.
 
 Evaluation results
 ^^^^^^^^^^^^^^^^^^
-Please refer to :ref:`Evaluator Guide <evaluator>`.
+Please refer to :doc:`Evaluator Guide <evaluator>`.
 
 Ranking
 ^^^^^^^
-Please refer to :ref:`Evaluator Guide <evaluator>`.
+Please refer to :doc:`Evaluator Guide <evaluator>`.
 
 
 Settings

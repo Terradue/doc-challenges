@@ -129,7 +129,7 @@ The list of pages accessible are (with roles who can access):
 -  |contestviewmenuranking.png| Ranking (all)
 
 The accessible pages are not the same depending on the role of the user in the challenge.
-Please refer to :ref:`Administrator Guide <administrator>`, :ref:`Initiator Guide <initiator>`, :ref:`Evaluator Guide <evaluator>` or :ref:`Participant Guide <participant>`.
+Please refer to :doc:`Administrator Guide <administrator>`, :doc:`Initiator Guide <initiator>`, :doc:`Evaluator Guide <evaluator>` or :doc:`Participant Guide <participant>`.
 
 Error messages
 --------------
