@@ -135,7 +135,7 @@ Moving the mouse over one participant's name will make it appear in bold
 compare to the others in the graph. Clicking on |contestviewmenuevaluationresults.png|
 on the table will redirect to the specified evaluation of the corresponding participant.
 
-.. image:: includes/sum/contestview_evaluation_results.png
+.. image:: includes/sum/contestview_evaluationresults.png
 	:align: center
 
 Participant evaluation view

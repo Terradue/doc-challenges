@@ -118,15 +118,15 @@ The pages are accessible from a vertical menu bar on the left.
 
 The list of pages accessible are (with roles who can access):
 
--  |challengeviewmenuhome.png| Challenge description (all)
--  |challengeviewmenudatapackage.png| Data packages (all)
--  |challengeviewmenuusers.png| Challenge users (initiator / administrator)
--  |challengeviewmenuenvironments.png| Environments (all)
--  |challengeviewmenucriteria.png| Criteria importance/weights (participant / evaluator / administrator)
--  |challengeviewmenuapplications.png| Participants applications (participant / evaluator / administrator)
--  |challengeviewmenumetrics.png| Evaluation metrics (evaluator / administrator)
--  |challengeviewmenuevaluationresults.png| Evaluation results (all)
--  |challengeviewmenuranking.png| Ranking (all)
+-  |contestviewmenuhome.png| Challenge description (all)
+-  |contestviewmenudatapackage.png| Data packages (all)
+-  |contestviewmenuusers.png| Challenge users (initiator / administrator)
+-  |contestviewmenuenvironments.png| Environments (all)
+-  |contestviewmenucriteria.png| Criteria importance/weights (participant / evaluator / administrator)
+-  |contestviewmenuapplications.png| Participants applications (participant / evaluator / administrator)
+-  |contestviewmenumetrics.png| Evaluation metrics (evaluator / administrator)
+-  |contestviewmenuevaluationresults.png| Evaluation results (all)
+-  |contestviewmenuranking.png| Ranking (all)
 
 The accessible pages are not the same depending on the role of the user in the challenge.
 Please refer to :ref:`Administrator Guide <administrator>`, :ref:`Initiator Guide <initiator>`, :ref:`Evaluator Guide <evaluator>` or :ref:`Participant Guide <participant>`.
