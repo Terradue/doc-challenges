@@ -10,6 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   User Guide <userguide>
 
 Indices and tables
 ==================
@@ -17,5 +19,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`User Guide` <userguide.rst>
 

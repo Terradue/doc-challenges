@@ -10,7 +10,7 @@ User Guide
    :maxdepth: 2
    
    Overview <overview>
-   Administrator guide <administrator/administrator.rst>
-   Initiator guide <initiator/initiator.rst>
-   Evaluator guide <evaluator/evaluator.rst>
-   Participant guide <evaluator/participant.rst>
+   Administrator guide <administrator/administrator>
+   Initiator guide <initiator/initiator>
+   Evaluator guide <evaluator/evaluator>
+   Participant guide <participant/participant>
