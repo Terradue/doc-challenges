@@ -13,26 +13,21 @@ Overview
 Purpose of the software
 -----------------------
 
-The project addresses the technologies and architectures needed to
-provide a collaborative research Platform for automating data mining and
-information extraction experiments. The Platform serves for the
-implementation of open challenges focusing on Information Extraction for
-EO applications. The possibility to implement – through the challenges –
-different approaches and algorithms in a common Software Environment
-(provided by the collaborative Platform) facilitates the comparison and
-the evaluation between different methodologies, which is one of the main
-requirements requested by scientific experts who develop algorithms in
-the EO field. The project objectives are to provide a collaborative
-research Platform for:
+The ESA e-Collaboration for Earth Observation project addresses the technologies and architectures needed to
+provide a collaborative research Platform for automating data mining and information extraction experiments. 
 
-- Automation of data mining and information extraction experiments
-- Generation of reproducible results that can be easily shared
-- Addressing specific scientific challenges and tackling new research problems in a “parallel and collaborative way”
+The E-CEO Data Challenges platform serves for the implementation of open challenges focusing on Information Extraction for
+EO applications. 
 
-The platform allows the set-up three on-line challenges, which can be
-appealing way of conducting research in data mining.
+The possibility to implement – through the challenges – different approaches and algorithms in a common Software Environment
+(provided by the collaborative platform) facilitates the comparison and the evaluation between different methodologies, which is one of the main
+requirements requested by scientific experts who develop algorithms in the EO field. 
 
-The platform is composed of a front-end (GUI) and a back-end (webserver).
+The E-CEO Data Challenges platform provides a collaborative research environment for:
+
+* Automation of data mining and information extraction experiments
+* Generation of reproducible results that can be easily shared
+* Addressing specific scientific challenges and tackling new research problems in a “parallel and collaborative way”
 
 Challenges Phases
 -----------------
@@ -89,8 +84,12 @@ A challenge (which is the core part of the portal) is divided into 6 phases:
 Challenges User Roles
 ---------------------
 
-The software can be use by 4 type of users: Participants, Initiators,
-Evaluators, Administrators.
+The software can be use by 4 type of users: 
+
+* Participants
+* Initiators
+* Evaluators
+* Administrators.
 
 Challenge **participants** will use the platform to:
 
