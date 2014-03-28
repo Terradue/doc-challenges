@@ -38,17 +38,12 @@ Challenges Phases
 -----------------
 A challenge (which is the core part of the portal) is divided into 6 phases:
 
-|contestcreated.png|
-|contestpromoted.png|
-	Challenge is visible
-|contestopen.png|
-	Challenge is open to applications 
-|contestinprogress.png|
-	Challenge is In Progress 
-|contestonevaluation.png|
-	Challenge is On Evaluation 
-|contestclosed.png|
-	Challenge is Closed 
+|contestcreated.png| Challenge is under creation 
+|contestpromoted.png| Challenge is visible
+|contestopen.png| Challenge is open to applications 
+|contestinprogress.png| Challenge is In Progress 
+|contestonevaluation.png| Challenge is On Evaluation 
+|contestclosed.png| Challenge is Closed 
 
 
 1. **Challenge created** |contestcreated.png|
