@@ -13,23 +13,23 @@ On the home page are displayed random contests which may have an interest for th
 Menu bar
 --------
 
-The top menu bar is composed of the following links:
+The top menu bar is always visible and provide shortcuts for the user.
+
+Challenges links
+^^^^^^^^^^^^^^^^
+The menu bar contains the following links to access challenges:
 
 Join a challenge
-^^^^^^^^^^^^^^^^
-Gives access to description of challenges that are open for participants and thus can be joined (it can be already started challenges).
+	Gives access to description of challenges that are open for participants and thus can be joined (it can be already started challenges).
 
 Upcoming challenges
-^^^^^^^^^^^^^^^^^^^
-Gives access to description of futures challenges that are not yet open for participants and thus cannot be joined.
+	Gives access to description of futures challenges that are not yet open for participants and thus cannot be joined.
 
 Past challenges
-^^^^^^^^^^^^^^^
-Gives access to description and results of past challenges run on the platform.
+	Gives access to description and results of past challenges run on the platform.
 
 My challenges
-^^^^^^^^^^^^^^^
-Gives access to challenges the current user is involved in.
+	Gives access to challenges the current user is involved in.
 
 Notifications
 ^^^^^^^^^^^^^

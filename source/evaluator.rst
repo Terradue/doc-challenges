@@ -201,8 +201,13 @@ Update the file monitor/scores.xml of the specified run using entries inside the
 usage:
 -  eceo-csvtoscore -f <csvFile>
 
+Example of a Excel view of the input file:
+
 .. image:: includes/sum/scorescsv.png
 	:align: center
+	
+
+Example of a Text view of the input file:
 
 .. image:: includes/sum/scorecsvtext.png
 	:align: center
