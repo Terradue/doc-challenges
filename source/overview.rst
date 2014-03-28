@@ -38,64 +38,58 @@ Challenges Phases
 -----------------
 A challenge (which is the core part of the portal) is divided into 6 phases:
 
-- Challenge is under creation |contestcreated.png|
-- Challenge is visible |contestpromoted.png|
-- Challenge is open to applications |contestopen.png|
-- Challenge is In Progress |contestinprogress.png|
-- Challenge is On Evaluation |contestonevaluation.png|
-- Challenge is Closed |contestclosed.png|
+|contestcreated.png|
+	Challenge is under creation 
+|contestpromoted.png|
+	Challenge is visible
+|contestopen.png|
+	Challenge is open to applications 
+|contestinprogress.png|
+	Challenge is In Progress 
+|contestonevaluation.png|
+	Challenge is On Evaluation 
+|contestclosed.png|
+	Challenge is Closed 
 
 
-Phase 1 (Challenge created)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. **Challenge created** |contestcreated.png|
+	-  Challenge creation and definition
+	-  Challenge modification
+	-  Challenge promotion
+	-  Challenge users management
+	-  Series and data package management
+	-  Data package for challenge management
+	-  Challenge Environment management
+	-  Evaluation Criterion creation
+	-  Evaluation Tree management
+	-  Notifications cleaning
 
--  Challenge creation and definition
--  Challenge modification
--  Challenge promotion
--  Challenge users management
--  Series and data package management
--  Data package for challenge management
--  Challenge Environment management
--  Evaluation Criterion creation
--  Evaluation Tree management
--  Notifications cleaning
+2. **Challenge visible** |contestpromoted.png|
+	-  Challenge description can be accessed
 
-Phase 2 (Challenge visible)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3. **Challenge promoted** |contestopen.png|
+	-  Application to a challenge
+	-  User certificate upload
+	-  Challenge start
+	-  Challenge users management
+	-  Environment creation
+	-  Notifications cleaning
 
--  Challenge description can be accessed
+4. **Challenge started** |contestinprogress.png|
+	-  Participant Application status update (packaging)
+	-  Participant Application status update (validation)
+	-  Participant Application references update
+	-  Challenge stop
+	-  Notifications cleaning
 
-Phase 3 (Challenge promoted)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+5. **Challenge ended / on evaluation** |contestonevaluation.png|
+	-  Participant Application status update (evaluation)
+	-  Participant Application references update
+	-  Environment nodes scalability
+	-  Notifications cleaning
 
--  Application to a challenge
--  User certificate upload
--  Challenge start
--  Challenge users management
--  Environment creation
--  Notifications cleaning
-
-Phase 4 (Challenge started)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  Participant Application status update (packaging)
--  Participant Application status update (validation)
--  Participant Application references update
--  Challenge stop
--  Notifications cleaning
-
-Phase 5 (Challenge ended / on evaluation)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  Participant Application status update (evaluation)
--  Participant Application references update
--  Environment nodes scalability
--  Notifications cleaning
-
-Phase 6 (Challenge closed)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  Challenge results are published and accessible.
+6. **Challenge closed** |contestclosed.png|
+	-  Challenge results are published and accessible.
 
 
 Challenges User Roles
