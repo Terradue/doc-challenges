@@ -175,11 +175,14 @@ Each participant can access its own evaluation results. It correspond to
 a page showing a graph with for each criterion the min and max score as
 well as Participant score.
 
+.. image:: includes/sum/evaluation.png
+	:align: center
+
 It is also possible to switch between normalized scores and raw scores
 (not normalized) of the participant.
 
 The user can also dowload a csv file containing all the results by
-clicking on |evaluation.png|
+clicking on |csvdownload.png|.
 
 Ranking
 ^^^^^^^
@@ -219,4 +222,4 @@ Once all the fields filled, save by clicking **Insert** .
 .. |search.png| image:: includes/sum/search.png
 .. |bbox2.png| image:: includes/sum/bbox2.png
 .. |bbox1.png| image:: includes/sum/bbox1.png
-.. |evaluation.png| image:: includes/sum/evaluation.png
+.. |csvdownload.png| image:: includes/sum/csv_download.png

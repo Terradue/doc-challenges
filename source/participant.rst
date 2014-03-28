@@ -145,11 +145,14 @@ Each participant can access its own evaluation results. It correspond to
 a page showing a graph with for each criterion the min and max score as
 well as Participant score.
 
+.. image:: includes/sum/evaluation.png
+	:align: center
+
 It is also possible to switch between normalized scores and raw scores
 (not normalized) of the participant.
 
 The user can also dowload a csv file containing all the results by
-clicking on |evaluation.png|
+clicking on |csvdownload.png|.
 
 Ranking
 ^^^^^^^
@@ -181,6 +184,6 @@ Environment is available here: `https://support.terradue.com/projects/sandbox-de
 .. |dashboard.png| image:: includes/sum/dashboard.png
 .. |oozie.png| image:: includes/sum/oozie.png
 .. |appref.png| image:: includes/sum/appref.png
-.. |evaluation.png| image:: includes/sum/evaluation.png
+.. |csvdownload.png| image:: includes/sum/csv_download.png
 .. |contestjoin.png| image:: includes/sum/contest_join.png
 

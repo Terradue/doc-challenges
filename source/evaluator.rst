@@ -141,11 +141,18 @@ on the table will redirect to the specified evaluation of the corresponding part
 Participant evaluation view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Each participant can access its own evaluation results. It correspond to a page showing a graph with for each criterion the min and max score as well as Participant score.
+Each participant can access its own evaluation results. It correspond to
+a page showing a graph with for each criterion the min and max score as
+well as Participant score.
 
-It is also possible to switch between normalized scores and raw scores (not normalized) of the participant.
+.. image:: includes/sum/evaluation.png
+	:align: center
 
-The user can also dowload a csv file containing all the results by clicking on |evaluation.png|
+It is also possible to switch between normalized scores and raw scores
+(not normalized) of the participant.
+
+The user can also dowload a csv file containing all the results by
+clicking on |csvdownload.png|.
 
 Ranking
 ^^^^^^^
@@ -221,4 +228,4 @@ usage:
 .. |dashboard.png| image:: includes/sum/dashboard.png
 .. |oozie.png| image:: includes/sum/oozie.png
 .. |appevalref.png| image:: includes/sum/appevalref.png
-.. |evaluation.png| image:: includes/sum/evaluation.png
+.. |csvdownload.png| image:: includes/sum/csv_download.png
