@@ -18,12 +18,14 @@ Challenge creation
 ------------------
 
 From the top menu bar, the **Initiator** can click on the “Settings” |settings.png| button and then click on **Create a Challenge** .
+
 Otherwise, from the **My Challenges**  list in the menu bar, the **Initiator** can click on **Create a new Challenge**  (in the bottom of the list of challenges).
 
 .. image:: includes/sum/create_contest.png
 	:align: center
 
 From the challenge creation page, fill the form with all information needed for the challenge and click **Create**  to save it. See `Challenge modification`_ for list of forms to be filled. Each form comes with a small description defining what to put inside.
+
 The new created  challenge will be added in the list of “my challenges”.
 
 .. _`Challenge modification`:
@@ -33,19 +35,23 @@ Challenge modification
 
 From the home page, the Initiator can choose **My Challenges**  in
 the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
+
 Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
 
 .. image:: includes/sum/contest_modify.png
 	:align: center
 
 Once all edit have been done, the Initiator may save the challenge by clicking on **Save Challenge** .
+
 All fields containing information about the challenge can be edited.
 
 Challenge view
 --------------
 
-The challenge view contains all the different pages associated to a
-challenge. The accessible pages are not the same depending on the role of the challenge.
+The challenge view contains all the different pages associated to a challenge. 
+
+The accessible pages are not the same depending on the role of the challenge.
+
 The pages are accessible from a vertical menu bar on the left.
 
 The list of pages accessible for an **initiator** are:
