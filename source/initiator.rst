@@ -9,9 +9,9 @@ An **initiator** in E-CEO platform is the person in charge of a challenge. He is
 Challenge **initiators** will use the platform to:
 
 -  define a challenge,
--  get challenge status and evolution,
+-  define data series and data packages,
+-  update challenge phase,
 -  accept or reject users for a challenge,
--  define data packages
 
 
 Challenge creation 
@@ -23,9 +23,10 @@ Otherwise, from the **My Challenges**  list in the menu bar, the **Initiator** c
 .. image:: includes/sum/create_contest.png
 	:align: center
 
-From the challenge creation page, fill the form with all information
-needed for the challenge and click **Create**  to save it. The new
-challenge will be added in the list of “my challenges”.
+From the challenge creation page, fill the form with all information needed for the challenge and click **Create**  to save it. See `Challenge modification`_ for list of forms to be filled. Each form comes with a small description defining what to put inside.
+The new created  challenge will be added in the list of “my challenges”.
+
+.. _`Challenge modification`:
 
 Challenge modification 
 ----------------------
