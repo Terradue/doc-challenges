@@ -1,17 +1,17 @@
-
 Initiator Guide
 ================
 
 Role description
 ----------------
 
-An **initiator** in E-CEO platform is the person in charge of a challenge. He is the one creating it and managing it during the life of the challenge.
-Challenge **initiators** will use the platform to:
+In the e-Collaboration for Earth Observation data challenges platform, the **initiator**  is the person in charge of the creation and management of the challenge during its lifecycle.
 
--  define a challenge,
--  define data series and data packages,
--  update challenge phase,
--  accept or reject users for a challenge,
+Challenge **initiators** use the platform to:
+
+*  Define a challenge
+*  Define data series and data packages associated to the challenge
+*  Update the challenge phases
+*  Accept or reject participants for the challenge
 
 
 Challenge creation 
