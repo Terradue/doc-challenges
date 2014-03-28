@@ -39,7 +39,6 @@ Challenges Phases
 A challenge (which is the core part of the portal) is divided into 6 phases:
 
 |contestcreated.png|
-	Challenge is under creation 
 |contestpromoted.png|
 	Challenge is visible
 |contestopen.png|
