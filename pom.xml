@@ -12,13 +12,13 @@
 	<artifactId>doc-challenges</artifactId>
 	<packaging>rpm</packaging>
 	<description>Documentation for challenges</description>
-	<version>0.3</version>
+	<version>0.4-SNAPSHOT</version>
 
 	<scm>
 		<connection>scm:git:git@github.com:Terradue/doc-challenges.git</connection>
 		<developerConnection>scm:git:git@github.com:Terradue/doc-challenges.git</developerConnection>
 		<url>https://github.com/Terradue/doc-challenges</url>
-		<tag>v0.3</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
