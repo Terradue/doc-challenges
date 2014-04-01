@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
@@ -18,8 +19,8 @@
 		<connection>scm:git:git@github.com:Terradue/doc-challenges.git</connection>
 		<developerConnection>scm:git:git@github.com:Terradue/doc-challenges.git</developerConnection>
 		<url>https://github.com/Terradue/doc-challenges</url>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
 
 	<build>
 		<plugins>
@@ -49,11 +50,11 @@
 					<frameworkVersion>4.0</frameworkVersion>
 				</configuration>
 			</plugin>
-<!-- 			<plugin> -->
-<!-- 				<groupId>org.nuiton.jredmine</groupId> -->
-<!-- 				<artifactId>jredmine-maven-plugin</artifactId> -->
-<!-- 				<inherited>false</inherited> -->
-<!-- 			</plugin> -->
+			<!-- <plugin> -->
+			<!-- <groupId>org.nuiton.jredmine</groupId> -->
+			<!-- <artifactId>jredmine-maven-plugin</artifactId> -->
+			<!-- <inherited>false</inherited> -->
+			<!-- </plugin> -->
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
 				<version>2.4</version>
@@ -106,7 +107,8 @@
 						<provide>${project.artifactId}</provide>
 					</provides>
 					<requires>
-						<require>httpd &gt;= 2.0</require>&gt;
+						<require>httpd &gt;= 2.0</require>
+						&gt;
 					</requires>
 					<needarch>noarch</needarch>
 				</configuration>
@@ -129,6 +131,36 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<profiles>
+		<profile>
+			<id>release</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>de.jutzig</groupId>
+						<artifactId>github-release-plugin</artifactId>
+						<version>1.0.3</version>
+						<executions>
+							<execution>
+								<id>github-upload</id>
+								<phase>deploy</phase>
+								<goals>
+									<goal>release</goal>
+								</goals>
+								<inherited>false</inherited>
+								<configuration>
+									<releaseName>v${releaseVersion}</releaseName>
+									<tag>v${releaseVersion}</tag>
+									<artifact>${project.build.directory}/${project.artifactId}-${project.version}-html.tar.gz</artifact>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 
 </project>
 
