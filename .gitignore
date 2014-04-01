@@ -6,3 +6,9 @@
 *.prefs
 /target
 /_build
+/__pycache__
+/_reports
+
+*.releaseBackup
+
+release.properties

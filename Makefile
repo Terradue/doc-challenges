@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-1.0-build
+SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
 REPORTDIR     = _reports
@@ -89,5 +89,6 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 test:
-	/usr/bin/py.test --tb=line -v --junitxml=$(REPORTDIR)/junit.xml check_sphinx.py
+	mkdir $(REPORTDIR)
+	`which py.test` --tb=line -v --junitxml=$(REPORTDIR)/junit.xml check_sphinx.py
 
