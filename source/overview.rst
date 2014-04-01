@@ -11,7 +11,7 @@ Overview
    
 
 Purpose of the software
--------------------------
+-----------------------
 
 The project addresses the technologies and architectures needed to
 provide a collaborative research Platform for automating data mining and
@@ -33,6 +33,57 @@ The platform allows the set-up three on-line challenges, which can be
 appealing way of conducting research in data mining.
 
 The platform is composed of a front-end (GUI) and a back-end (webserver).
+
+Challenges Phases
+-----------------
+A challenge (which is the core part of the portal) is divided into 6 phases:
+
+|contestcreated.png| Challenge is under creation 
+|contestpromoted.png| Challenge is visible
+|contestopen.png| Challenge is open to applications 
+|contestinprogress.png| Challenge is In Progress 
+|contestonevaluation.png| Challenge is On Evaluation 
+|contestclosed.png| Challenge is Closed 
+
+
+1. **Challenge created** |contestcreated.png|
+	-  Challenge creation and definition
+	-  Challenge modification
+	-  Challenge promotion
+	-  Challenge users management
+	-  Series and data package management
+	-  Data package for challenge management
+	-  Challenge Environment management
+	-  Evaluation Criterion creation
+	-  Evaluation Tree management
+	-  Notifications cleaning
+
+2. **Challenge visible** |contestpromoted.png|
+	-  Challenge description can be accessed
+
+3. **Challenge promoted** |contestopen.png|
+	-  Application to a challenge
+	-  User certificate upload
+	-  Challenge start
+	-  Challenge users management
+	-  Environment creation
+	-  Notifications cleaning
+
+4. **Challenge started** |contestinprogress.png|
+	-  Participant Application status update (packaging)
+	-  Participant Application status update (validation)
+	-  Participant Application references update
+	-  Challenge stop
+	-  Notifications cleaning
+
+5. **Challenge ended / on evaluation** |contestonevaluation.png|
+	-  Participant Application status update (evaluation)
+	-  Participant Application references update
+	-  Environment nodes scalability
+	-  Notifications cleaning
+
+6. **Challenge closed** |contestclosed.png|
+	-  Challenge results are published and accessible.
 
 
 Challenges User Roles
@@ -69,3 +120,9 @@ Challenge **administrators** will use the platform to:
 -  validate participant applications,
 -  define data packages
 
+.. |contestcreated.png| image:: includes/sum/contest_created.png
+.. |contestpromoted.png| image:: includes/sum/contest_promoted.png
+.. |contestopen.png| image:: includes/sum/contest_open.png
+.. |contestinprogress.png| image:: includes/sum/contest_in_progress.png
+.. |contestonevaluation.png| image:: includes/sum/contest_on_evaluation.png
+.. |contestclosed.png| image:: includes/sum/contest_closed.png

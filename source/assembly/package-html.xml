@@ -1,0 +1,11 @@
+<assembly>
+	<id>html</id>
+	<formats>
+		<format>tar.gz</format>
+	</formats>
+	<fileSets>
+		<fileSet>
+			<directory>_build/html</directory>
+		</fileSet>
+	</fileSets>
+</assembly>
