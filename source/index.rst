@@ -18,10 +18,4 @@ Contents:
    Evaluator Guide <evaluator>
    Participant Guide <participant>
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

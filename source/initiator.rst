@@ -1,29 +1,33 @@
-
 Initiator Guide
 ================
 
 Role description
 ----------------
 
-An **initiator** in E-CEO platform is the person in charge of a challenge. He is the one creating it and managing it during the life of the challenge.
-Challenge **initiators** will use the platform to:
+In the e-Collaboration for Earth Observation data challenges platform, the **initiator**  is the person in charge of the creation and management of the challenge during its lifecycle.
 
--  define a challenge,
--  define data series and data packages,
--  update challenge phase,
--  accept or reject users for a challenge,
+Challenge **initiators** use the platform to:
+
+*  Define a challenge
+*  Define data series and data packages associated to the challenge
+*  Update the challenge phases
+*  Accept or reject participants for the challenge
 
 
 Challenge creation 
 ------------------
 
 From the top menu bar, the **Initiator** can click on the “Settings” |settings.png| button and then click on **Create a Challenge** .
+
 Otherwise, from the **My Challenges**  list in the menu bar, the **Initiator** can click on **Create a new Challenge**  (in the bottom of the list of challenges).
 
 .. image:: includes/sum/create_contest.png
 	:align: center
 
-From the challenge creation page, fill the form with all information needed for the challenge and click **Create**  to save it. See `Challenge modification`_ for list of forms to be filled. Each form comes with a small description defining what to put inside.
+From the challenge creation page, fill the form with all information needed for the challenge and click **Create**  to save it. See `Challenge modification`_ for list of forms to be filled. 
+
+Each form comes with a small description defining what to put inside.
+
 The new created  challenge will be added in the list of “my challenges”.
 
 .. _`Challenge modification`:
@@ -31,21 +35,24 @@ The new created  challenge will be added in the list of “my challenges”.
 Challenge modification 
 ----------------------
 
-From the home page, the Initiator can choose **My Challenges**  in
-the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
-Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
+From the home page, the Initiator can choose **My Challenges**  in the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
+
+*Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
 
 .. image:: includes/sum/contest_modify.png
 	:align: center
 
 Once all edit have been done, the Initiator may save the challenge by clicking on **Save Challenge** .
+
 All fields containing information about the challenge can be edited.
 
 Challenge view
 --------------
 
-The challenge view contains all the different pages associated to a
-challenge. The accessible pages are not the same depending on the role of the challenge.
+The challenge view contains all the different pages associated to a challenge. 
+
+The accessible pages are not the same depending on the role of the challenge.
+
 The pages are accessible from a vertical menu bar on the left.
 
 The list of pages accessible for an **initiator** are:
@@ -61,17 +68,16 @@ The list of pages accessible for an **initiator** are:
 Global description
 ^^^^^^^^^^^^^^^^^^
 
-From the home page, the user can choose **My Challenges**  in the
-menu bar and then click on the challenge name to select it.
+From the home page, the user can choose **My Challenges**  in the menu bar and then click on the challenge name to select it.
 
-The first page he will see is the challenge description page.
+The first page shows the challenge description page.
 
 .. image:: includes/sum/contestview_description.png
 	:align: center
 
-The Initiator has the possiblity from this page to **Modify** or
-**Delete** the challenge. He can also do the following actions, clicking
-on the corresponding button (right of the status):
+From this page, the Initiator has the possiblity to **Modify** or **Delete** the challenge. 
+
+He can also do the following actions, clicking on the corresponding button (right of the status):
 
 -  **Make the challenge visible** (challenge is visible but not open for participants to join)
 -  **Open challenge** (challenge is visible and participants can join)
@@ -82,8 +88,7 @@ on the corresponding button (right of the status):
 Data packages
 ^^^^^^^^^^^^^
 
-The list of existing Data Package is displayed, including the items
-associated to this data package and the search link used inside the
+The list of existing Data Package is displayed, including the items associated to this data package and the search link used inside the
 application.xml file of the user application.
 
 It is possible to insert a new data package (fill “name”, “identifier”
@@ -98,20 +103,21 @@ It is also possible to manage data packages items (click on **Manage Items** ).
 Data package items management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-From this page, the Initiator can select the items he wants to have in
-the data package. He would need first to select the data series he wants
-to use to find items bu clicking on **Select another Series**.
+From this page, the Initiator can select the items he wants to have in the data package. 
 
-There are several ways to add items on the data package:
+The initiator first selects the data series to use to find items by clicking on **Select another Series**.
 
--  Add any link manually, by clicking **Manually Add new Location**
--  Add an Opensearch url, by cliking **Add Opensearch url** once the search request build
--  Add one or several items from the results on the map, choosing **Selection Mode** on the map (click on one or several item to select them)
+There are several ways to add items to the data package:
 
-Once data package items added, click on **Save**.
+*  Add any link manually, by clicking **Manually Add new Location**
+*  Add an Opensearch url, by cliking **Add Opensearch url** once the search request build
+*  Add one or several items from the results on the map, choosing **Selection Mode** on the map (click on one or several item to select them)
 
-To build the Opensearch request, click on |search.png| and fill the parameters that correspond to the search. It is possible to click on |bbox2.png|
-or |bbox1.png| to respectively draw a rectangle or a polygon on a map that will correspond to the search area (geo:box).
+Once data package items have been added, click on **Save**.
+
+To build the Opensearch request, click on |search.png| and fill the parameters that correspond to the search. 
+
+It is possible to click on |bbox2.png| or |bbox1.png| to respectively draw a rectangle or a polygon on a map that will correspond to the search area (geo:box).
 
 .. image:: includes/sum/datapackage_item_management.png
 	:align: center
@@ -119,11 +125,12 @@ or |bbox1.png| to respectively draw a rectangle or a polygon on a map that will 
 Users
 ^^^^^
 
-From this page, the initiator can access the list of users participating
-to the challenge. He can also (by clicking on the corresponding user icon):
+From this page, the initiator can access the list of users participating to the challenge. 
 
--  Select or change the evaluator
--  Allow or deny participants to the challenge
+By clicking on the corresponding user icon, the initiator can also:
+
+*  Select or change the evaluator
+*  Allow or deny participants to the challenge
 
 .. image:: includes/sum/contestview_users.png
 	:align: center
@@ -131,9 +138,9 @@ to the challenge. He can also (by clicking on the corresponding user icon):
 Environments
 ^^^^^^^^^^^^
 
-From this page, the user can access information about its environments
-(Initiator and Administrator can see all environments of the challenge,
-but Evaluator and Participants can see only their environment).
+From this page, the user can access information about his environments.
+
+Note: Initiators and Administrators can see all environments of the challenge, but the Evaluator and Participants can only see their environment.*
 
 .. image:: includes/sum/contestview_environments.png
 	:align: center
@@ -158,13 +165,13 @@ To access the information about the run, you can click on **Run information**  t
 Evaluation results
 ^^^^^^^^^^^^^^^^^^
 
-From this page, the user can access the results of the evaluation of the
-challenge. He can have in a quick look the view of all partcipant's scores
-amongst each other, and access more detailed results.
+From this page, the user can access the results of the evaluation of the challenge. 
 
-Moving the mouse over one participant's name will make it appear in bold
-compare to the others in the graph. Clicking on |contestviewmenuevaluationresults.png|
-on the table will redirect to the specified evaluation of the corresponding participant.
+He can have in a quick look the view of all participant's scores amongst each other, and access more detailed results.
+
+Moving the mouse over one participant's name will make it appear in bold to compare to the others in the graph. 
+
+Clicking on |contestviewmenuevaluationresults.png| on the table will redirect to the specified evaluation of the corresponding participant.
 
 .. image:: includes/sum/contestview_evaluationresults.png
 	:align: center
@@ -172,25 +179,21 @@ on the table will redirect to the specified evaluation of the corresponding part
 Participant evaluation view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Each participant can access its own evaluation results. It correspond to
-a page showing a graph with for each criterion the min and max score as
-well as Participant score.
+Each participant can access its own evaluation results. It correspond to a page showing a graph with for each criterion the min and max score as well as Participant score.
 
 .. image:: includes/sum/evaluation.png
 	:align: center
 
-It is also possible to switch between normalized scores and raw scores
-(not normalized) of the participant.
+It is also possible to switch between normalized scores and raw scores (not normalized) of the participant.
 
-The user can also dowload a csv file containing all the results by
-clicking on |csvdownload.png|.
+The user can also dowload a csv file containing all the results by clicking on |csvdownload.png|.
 
 Ranking
 ^^^^^^^
 
-From this page, the user can access the ranking of the challenge (note
-this page is also visible without being logged, but some information may
-be not visible in that case).
+From this page, the user can access the ranking of the challenge.
+
+*Note this page is also visible without being logged, but, it that case, some information may be not visible.
 
 .. image:: includes/sum/contestview_ranking.png
 	:align: center
@@ -201,10 +204,13 @@ Settings
 Manage Data Series
 ^^^^^^^^^^^^^^^^^^
 
-From the Settings button on the top menu bar, select **Manage Series** . The list of
-existing series will appear. To create a new one click on **Add Data Series** .
+From the Settings button on the top menu bar, select **Manage Series**. 
 
-Once all the fields filled, save by clicking **Insert** .
+The list of existing series will appear. 
+
+To create a new one click on **Add Data Series**.
+
+Once all the fields filled, save by clicking **Insert**.
 
 .. image:: includes/sum/series_creation.png
 	:align: center
