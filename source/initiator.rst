@@ -37,7 +37,7 @@ Challenge modification
 
 From the home page, the Initiator can choose **My Challenges**  in the menu bar and then click on the “modify” icon |modify-icon.png| of the challenge.
 
-*Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
+Note that the challenge modification page can also be accessed from the challenge view page (description view, in the bottom of the page).
 
 .. image:: includes/sum/contest_modify.png
 	:align: center
