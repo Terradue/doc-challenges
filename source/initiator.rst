@@ -193,7 +193,7 @@ Ranking
 
 From this page, the user can access the ranking of the challenge.
 
-*Note this page is also visible without being logged, but, it that case, some information may be not visible.
+Note this page is also visible without being logged, but, it that case, some information may be not visible.
 
 .. image:: includes/sum/contestview_ranking.png
 	:align: center
