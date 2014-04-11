@@ -7,11 +7,11 @@ Role description
 An **administrator** in E-CEO platform will be in charge of administrating one or several challenges.
 Challenge **administrators** will use the platform to:
 
--  set-up environments,
--  define series,
--  define evaluation criteria,
--  manage users,
--  validate participant applications
+-  set-up environments (`Environments`_ and `Manage Environments`_),
+-  define series (`Manage Data Series`_),
+-  define evaluation criteria (`Criteria importance weights`_ and `Manage Criteria`_),
+-  manage users (`Users`_ and `Manage Users`_),
+-  validate participant applications (`Participants applications`_)
 
 Note that **administrator** can also do all actions that **initiator** or **evaluator** can do.
 
@@ -53,7 +53,7 @@ Environments
 ^^^^^^^^^^^^
 Please refer to :doc:`Initiator Guide <initiator>`.
 
-Criteria importance/weights
+Criteria importance weights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Please refer to :doc:`Evaluator Guide <evaluator>`.
 

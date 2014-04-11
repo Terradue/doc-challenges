@@ -8,10 +8,10 @@ In the e-Collaboration for Earth Observation data challenges platform, the **ini
 
 Challenge **initiators** use the platform to:
 
-*  Define a challenge
-*  Define data series and data packages associated to the challenge
-*  Update the challenge phases
-*  Accept or reject participants for the challenge
+-  Define a challenge (`Challenge creation`_ and `Challenge modification`_),
+-  Define data series and data packages associated to the challenge (`Manage Data Series`_, `Data packages`_ and `Data package items management`_),
+-  Update the challenge phases (`Challenge view`_),
+-  Accept or reject participants for the challenge (`Users`_)
 
 
 Challenge creation 

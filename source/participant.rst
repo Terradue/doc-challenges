@@ -9,11 +9,11 @@ A **participant** in E-CEO platform is a contestee, participating to a challenge
 
 Challenge **participants** will use the platform to:
 
--  get information about a challenge,
--  get information about their Private Environment,
--  get support from the support team,
--  provide information about their application,
--  get application evaluation result
+-  get information about a challenge (`Global description`_),
+-  get information about their Private Environment (`Environments`_),
+-  get support from the support team (:doc:`User Guide <userguide>`),
+-  provide information about their application (`Participants applications`_),
+-  get application evaluation result (`Evaluation results`_)
 
 
 Join a Challenge

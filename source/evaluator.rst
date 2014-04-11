@@ -7,9 +7,11 @@ Role description
 An **evaluator** in E-CEO platform is the person in charge of the evaluation of a challenge. He is the one running and evaluating all applications of participants.
 Challenge **evaluators** will use the platform to:
 
--  define challenge evaluation tree,
--  evaluate participant application,
--  get information about the Evaluation Environment
+-  get information about the Evaluation Environment (`Environments`_),
+-  define challenge evaluation tree (`Criteria importance weights`_),
+-  evaluate participant application (`Participants applications`_),
+-  check participant evaluation result (`Participant evaluation view`_)
+
 
 Challenge view
 --------------
@@ -91,7 +93,7 @@ The Evaluator can also apply quantification on all applications (**Quantify all*
 Once all applications are quantified, the evaluator can do the final step of the evaluation which is the normalization by clicking on
 **Evaluate all**. This will normalize all applications together and create scores between 0 and 1 for each criterion. It will also apply selected weights on each criterion.
 
-Criteria importance/weights
+Criteria importance weights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From the challenge view, evaluation tree can be updated in the following way:
