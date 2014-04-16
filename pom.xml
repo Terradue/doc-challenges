@@ -18,7 +18,6 @@
 		<connection>scm:git:git@github.com:Terradue/doc-challenges.git</connection>
 		<developerConnection>scm:git:git@github.com:Terradue/doc-challenges.git</developerConnection>
 		<url>https://github.com/Terradue/doc-challenges</url>
-		<tag>HEAD</tag>
 	</scm>
 
 	<build>
