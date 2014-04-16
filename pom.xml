@@ -15,9 +15,10 @@
 	<version>0.4-SNAPSHOT</version>
 	
 	<scm>
-		<connection>scm:git:git@github.com:Terradue/doc-challenges.git</connection>
-		<developerConnection>scm:git:git@github.com:Terradue/doc-challenges.git</developerConnection>
+		<connection>scm:git:ssh://github.com/Terradue/doc-challenges.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/Terradue/doc-challenges.git</developerConnection>
 		<url>https://github.com/Terradue/doc-challenges</url>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
