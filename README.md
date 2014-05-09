@@ -2,7 +2,7 @@
 
 This is the official repository of E-CEO Data Challenges platform's Documentation. This
 documentation is live at:
-[http://docs.terradue.com/data-challenges](http://docs.terradue.com/data-challenges).
+[http://docs.terradue.com/challenges](http://docs.terradue.com/challenges).
 
 You are encouraged to fork this repo and send us pull requests!
 
