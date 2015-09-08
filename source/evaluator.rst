@@ -224,6 +224,68 @@ Evaluator can then review them and upload them into the run folder using eceo-ad
 usage:
 -  eceo-csvtoxmlscore -f <csvFile>
 
+Roadmap to evaluate a challenge
+-------------------------------
+
+Preparation of the evaluation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Update the list of criteria
++++++++++++++++++++++++++++
+
+If necessary:
+
+- create new criteria (contact an administrator)
+- update the list of criteria by including/excluding them from the contest evaluation tree
+- update the weights of the selected criteria
+
+Wait for application to be ready
+++++++++++++++++++++++++++++++++
+
+When a participant has completed a version of his application, he will set it as *ready for evaluation* and associate the application release reference.
+
+Starting the evaluation
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Run the participant application
++++++++++++++++++++++++++++++++
+
+1. On the Evaluation environment, run the application that the user has set as reference.
+2. Once the run completed, set the run Id as evaluation reference of the application.
+
+.. note:: once the run evaluation reference set, metrics will be automatically retrieved from the evaluation environment.
+
+Metrics
++++++++
+
+Metrics are the values corresponding to the monitoring of the application run.
+
+1. Check that metrics are correclty created
+2. If necessary, add manually new metrics (choose correctly the name, it should be the same as used by the corresponding criterion)
+
+.. note:: for the quantification to be applied on the new metrics, the metrics should be defined as a plugin in the webserver dll. Otherwise, there is no quantification and the value should be rather put directly in the score list manually as described in further step.
+
+Quantification
+++++++++++++++
+
+Once happy with user's metrics, you can do the quantification. This will create the score files for the user.
+If all applications are ready, directly click on *Quantify all*.
+
+Scores
+++++++
+
+Scores are the values corresponding to the quantification applied to the metrics.
+
+1. Check that scores are correclty created
+2. If necessary, add manually new scores (choose correctly the name, it should be the same as the corresponding criterion)
+
+Evaluation
+++++++++++
+
+Once all scores quantified and/or updated, *Evaluate* the challenge and produce the ranking of the users.
+Evaluation will normalized quantified values amongst all users and create a final score.
+Ranking is automaticaly done from these final scores.
+
 .. |contestviewmenuhome.png| image:: includes/sum/contestview_menu_home.png
 .. |contestviewmenudatapackage.png| image:: includes/sum/contestview_menu_datapackage.png
 .. |contestviewmenuenvironments.png| image:: includes/sum/contestview_menu_environments.png
